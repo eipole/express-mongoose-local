@@ -1,0 +1,20 @@
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+
+# npm
+node_modules
+package-lock.json
+*.log
+*.gz
+#environment
+.env
+
+# Coveralls
+coverage
+
+# Benchmarking
+benchmarks/graphs
